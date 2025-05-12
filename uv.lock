@@ -105,6 +105,7 @@ dependencies = [
     { name = "matplotlib" },
     { name = "numpy" },
     { name = "pandas" },
+    { name = "pillow" },
     { name = "scikit-learn" },
     { name = "torch" },
 ]
@@ -117,6 +118,7 @@ requires-dist = [
     { name = "matplotlib", specifier = ">=3.10.1" },
     { name = "numpy", specifier = ">=2.2.5" },
     { name = "pandas", specifier = ">=2.2.3" },
+    { name = "pillow", specifier = ">=11.2.1" },
     { name = "scikit-learn", specifier = ">=1.6.1" },
     { name = "torch", specifier = ">=2.7.0" },
 ]
